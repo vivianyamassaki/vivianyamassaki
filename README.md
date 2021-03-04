@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 #### Onde você pode me encontrar:
 
 Linkedin: https://www.linkedin.com/in/vivianyamassaki/
+
 Medium: https://vivianyamassaki.medium.com/
