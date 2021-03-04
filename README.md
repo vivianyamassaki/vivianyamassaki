@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 - 🔭 Atualmente, sou cientista de dados na Creditas 💚
 - 😄 Pronomes: Ela/dela.
 - ❤️ Também me envolvo em projetos que visam incentivar mulheres em tecnologia, na área de Ciência de Dados. Um desses projetos é o **Women in Data Science (WiDS)**, do qual sou co-embaixadora desde 2019. Outro projeto é o **MIA (Mulheres em Inteligência Artificial)**, do qual sou uma das organizadoras. 
+
+#### Onde você pode me encontrar:
+
+Linkedin: https://www.linkedin.com/in/vivianyamassaki/
+Medium: https://vivianyamassaki.medium.com/
