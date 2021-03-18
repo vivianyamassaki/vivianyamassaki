@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 Mestra com pesquisa em inteligência artificial e área de aplicação em bioinformática pela Universidade de São Paulo.
+- 🎓 Mestra com pesquisa em inteligência artificial e área de aplicação em bioinformática pela USP.
 - 🔭 Atualmente, sou cientista de dados na Creditas 💚
 - ❤️ Também me envolvo em projetos que visam incentivar mulheres em tecnologia, principalmente na área de Dados. Um desses projetos é o [Women in Data Science (WiDS) São Paulo](https://www.instagram.com/wids_sp/), do qual sou co-embaixadora desde 2019. Outro projeto é o [MIA (Mulheres em Inteligência Artificial)](https://www.instagram.com/mulheres.em.ia/), do qual sou uma das organizadoras. 
 - 😄 Pronomes: Ela/dela.
