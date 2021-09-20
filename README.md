@@ -1,3 +1,6 @@
+![](https://github.com/vivianyamassaki/vivianyamassaki/blob/main/Capa_Github.png)
+
+
 # Oi! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="50"/>
 <!--
 **vivianyamassaki/vivianyamassaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
